@@ -2,4 +2,4 @@
 
 This my first commit
 
-!["Logos"][ https://abubunamay.com/assets/front/img/heroarea_bg.jpg ]
+!["Logos"](https://abubunamay.com/assets/front/img/heroarea_bg.jpg)
