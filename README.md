@@ -8,7 +8,7 @@ This my first commit
 
 *This is third Git*
 
-~~ How do I do this? ~~ Let's Do this!! 
+~~How do I do this?~~ Let's Do this!! 
 
 
 1. First item
