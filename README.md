@@ -35,6 +35,6 @@ else{
 !["Logos"](https://abubunamay.com/assets/front/img/heroarea_bg.jpg)
 
 - [x] Made this
-- [] Future lab quiz
+- [ ] Future lab quiz
 
 [My Website](https://www.abubunamay.com)
