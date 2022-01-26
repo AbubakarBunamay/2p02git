@@ -1,4 +1,6 @@
 # Hello World
+## This is heading 2
+### This is heading 3
 
 This my first commit
 
@@ -6,9 +8,8 @@ This my first commit
 
 *This is third Git*
 
-## This is heading 2
+~~ How do I do this? ~~ Let's Do this!! 
 
-### This is heading 3
 
 1. First item
 2. Second item
@@ -32,5 +33,8 @@ else{
 ```
 
 !["Logos"](https://abubunamay.com/assets/front/img/heroarea_bg.jpg)
+
+- [x] Made this
+- [] Future lab quiz
 
 [My Website](https://www.abubunamay.com)
